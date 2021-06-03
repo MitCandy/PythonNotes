@@ -29,5 +29,5 @@ print(myname[4]) # Prints e
 
 # Another function for counting index
 some_word = "Hent Have" # ( ͡° ͜ʖ ͡°) Author weeb lmao
-print(some_word("H")) # Prints 0 and btw case sensitive
-print(some_word("a")) # Prints 6 
+print(some_word.index("H")) # Prints 0 and btw case sensitive
+print(some_word.index("a")) # Prints 6 
