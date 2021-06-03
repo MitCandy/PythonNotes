@@ -14,10 +14,10 @@ print("Your name is " + name1)
 
 # String w function
 word = "klen"
-print(word.upper) # Capitalize those words
+print(word.upper()) # Capitalize those words
 
 word1 = "KLEN"
-print(word1.lower) # vice versa
+print(word1.lower()) # vice versa
 
 word2 = "I love you"
 print(len(word2)) # measure the length of characters ( counted from zero, spaces included )
